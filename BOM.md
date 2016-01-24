@@ -21,7 +21,7 @@ Controller:
 
 Power Supply:
 
-[9V Alkaline Battery](https://www.sparkfun.com/products/10218)
+[Wall Adapter Power Supply - 5V DC 2A (Barrel Jack)](https://www.sparkfun.com/products/12889)
 
 
 
